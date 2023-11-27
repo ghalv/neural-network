@@ -1,2 +1,3 @@
-# neural-network
-Neural Network from Scratch
+# Neural Network
+
+Building a Feedforward Neural Network (FNN) from Scratch
